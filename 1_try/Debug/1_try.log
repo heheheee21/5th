@@ -1,0 +1,4 @@
+﻿  1_try.cpp
+C:\Users\user\Desktop\ВУЗ\Программирование\2 с\Лабы\5th\5th_2.0\1_try\1_try.cpp(27,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\Desktop\ВУЗ\Программирование\2 с\Лабы\5th\5th_2.0\1_try\1_try.cpp(222,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  1_try.vcxproj -> C:\Users\user\Desktop\ВУЗ\Программирование\2 с\Лабы\5th\5th_2.0\Debug\1_try.exe
